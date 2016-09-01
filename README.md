@@ -14,9 +14,9 @@ CONSIDERATIONS:
 
 6) The flow of program is that it:
 
-a) Loads the JSON data
-b) Seggregates the data according to gender
-c) Then for each gender, it filters the pet type and returns a sorted string list
+a. Loads the JSON data
+b. Seggregates the data according to gender
+c. Then for each gender, it filters the pet type and returns a sorted string list
 
 
 Known Issues
