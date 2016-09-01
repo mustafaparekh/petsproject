@@ -12,7 +12,7 @@ CONSIDERATIONS:
 
 5) The entry point in the logic is Page_Load event.
 
-5) The flow of program is that it:
+6) The flow of program is that it:
 
 a) Loads the JSON data
 b) Seggregates the data according to gender
